@@ -1,5 +1,5 @@
 [![Rust](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/rust.yml/badge.svg)](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/rust.yml)
-[![Node.js CI](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml/badge.svg)](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml)
+[![Node.js CI](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml/badge.svg?branch=main)](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml)
 
 ### Problem
 
