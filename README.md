@@ -1,3 +1,6 @@
+[![Rust](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/rust.yml/badge.svg)](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/rust.yml)
+[![Node.js CI](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml/badge.svg)](https://github.com/gustawdaniel/linear-sort-maximum-inequality-rust-node/actions/workflows/node.yml)
+
 ### Problem
 
 A function on a binary string T of length M is defined as follows:
